@@ -1,0 +1,58 @@
+body{
+    background-color: #0D0714;
+  }
+  .todo{
+    margin: 0px auto;
+    margin-top: 150px;
+    border-radius: 20px;
+    background-color: #1D1825;
+    height: 758px;
+    width: 583px;
+    padding: 30px;
+  }
+  
+  .adding-input{
+    font-size: 18px;
+    color:  #777777;
+    padding-left: 20px;
+    height: 50px;
+    width: 381px;
+    background-color: #1D1825;
+    border: 1px solid  #9E78CF;
+    border-radius:5px;
+    margin-left: 50px;
+    
+  }
+  .adding-input:focus{
+    outline-color: #9E78CF;
+    outline-offset: 0.5;
+    outline-style: groove;
+  }
+  .adding-button{
+    border-radius: 4px;
+    background-color: #9E78CF;
+    height: 50px;
+    width: 50px;
+    border: none;
+    font-size: 25px;
+    color: white;
+    margin: 5px 0px 0px 30px;
+  }
+
+
+  .ul-box{
+    margin-top: 50px;
+    color: white;
+  }
+  .ul-box li{
+    list-style: none;
+    text-decoration: none;
+  }
+  .ul-box button{
+    padding: 2px 6px;
+    margin-left: 10px;
+  }
+  .headerTitle{
+    color: white;
+    margin: 20px 0px 0px 50px;
+  }
